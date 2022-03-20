@@ -1,7 +1,7 @@
 # cute-keyboard
 tuckable keyboard
 
-scary key - 
+type key - 
 
 *html 
 *css
